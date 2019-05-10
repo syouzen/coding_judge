@@ -1,6 +1,6 @@
-/* Date : 2019.4.29
+/* Date : 2019.5.10
  * Author : seungyeon choi
- * 1697 (숨바꼭질)
+ * 1325 (효율적인 해킹)
  */
 
 #include <algorithm>
