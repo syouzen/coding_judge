@@ -1,3 +1,7 @@
 add_subdirectory(1149)
+add_subdirectory(2293)
+add_subdirectory(2294)
+add_subdirectory(11047)
 add_subdirectory(14501)
+add_subdirectory(17175)
 add_subdirectory(LIS)
